@@ -1,9 +1,9 @@
 User-agent: *
 Allow: /
 
-# かながわ終活ナビ（kanagawa-shukatsu.com）
+# かながわ終活ナビ（kanagawashukatsu.com）
 # 各サービスのサイトマップ
-Sitemap: https://kanagawa-shukatsu.com/sitemap.xml
-Sitemap: https://kanagawa-shukatsu.com/sougi/sitemap-index.xml
-Sitemap: https://kanagawa-shukatsu.com/ihin-seiri/sitemap-index.xml
-Sitemap: https://kanagawa-shukatsu.com/akiya/sitemap-index.xml
+Sitemap: https://kanagawashukatsu.com/sitemap.xml
+Sitemap: https://kanagawashukatsu.com/sougi/sitemap-index.xml
+Sitemap: https://kanagawashukatsu.com/ihin-seiri/sitemap-index.xml
+Sitemap: https://kanagawashukatsu.com/akiya/sitemap-index.xml
