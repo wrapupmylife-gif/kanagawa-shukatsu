@@ -1,0 +1,8 @@
+{
+  // かながわ終活ナビ ポータル（静的アセットのみのWorker）
+  "name": "kanagawa-shukatsu",
+  "compatibility_date": "2026-07-01",
+  "assets": {
+    "directory": "./public"
+  }
+}
