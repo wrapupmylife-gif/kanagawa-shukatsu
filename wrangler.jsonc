@@ -1,8 +1,13 @@
 {
   // かながわ終活ナビ ポータル（静的アセットのみのWorker）
+  // routes によりデプロイ時に kanagawashukatsu.com（ルート）が自動でこのWorkerに割り当たる。
+  // /sougi* /ihin-seiri* /akiya* は各サブサイトWorkerのルートが優先される。
   "name": "kanagawa-shukatsu",
   "compatibility_date": "2026-07-01",
   "assets": {
     "directory": "./public"
-  }
+  },
+  "routes": [
+    { "pattern": "kanagawashukatsu.com", "custom_domain": true }
+  ]
 }
